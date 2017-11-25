@@ -12,6 +12,7 @@ const result = compose(
     halfNum,
     addTen,
     doubled,
+    squared
 )(startVal);
 
 console.log(result);
