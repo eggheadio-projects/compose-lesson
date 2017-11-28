@@ -15,4 +15,4 @@ const result = compose(
     squared
 )(startVal);
 
-console.log(result);
+console.log("output: ", result);
